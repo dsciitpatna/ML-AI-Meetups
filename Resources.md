@@ -8,6 +8,8 @@
 
 * https://machinelearningmastery.com/start-here/
 
+* https://towardsdatascience.com/get-your-computer-ready-for-machine-learning-how-what-and-why-you-should-use-anaconda-miniconda-d213444f36d6 (Introduction to Anaconda software)
+
 ## Learning Python
 
 * https://www.udemy.com/share/101r6uBEEZd1lbRHg=/
