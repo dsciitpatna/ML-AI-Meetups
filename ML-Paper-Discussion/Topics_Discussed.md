@@ -1,4 +1,4 @@
-# Information of the Research Paper Discussion conucted by the ML-AI society, DSC IIT-Patna.
+# Research Paper Discussions condcted by  ML society, DSC IIT-Patna.
 
 ## Version 1
 ### Date - 11th August 2019
