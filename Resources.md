@@ -16,6 +16,8 @@
 
 * https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_
 
+* https://github.com/dsciitpatna/Python/tree/master/LearningPython (Contains google colab link for hands-on experience in python)
+
 ## Classical Machine Learning
 
 * https://www.coursera.org/learn/machine-learning (Andrew NG's machine learning course, which is highly recommended for beginners)
