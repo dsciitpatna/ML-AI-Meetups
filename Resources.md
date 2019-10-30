@@ -43,6 +43,8 @@
 
 * https://www.udacity.com/course/deep-learning-pytorch--ud188 (Pytorch Udacity free course.)
 
+* http://www.deeplearningbook.org/ (Online version of the Deep learning book by Ian Goodfellow, Benigo, Courville)
+
 ## Natural Language Processing
 
 * https://www.coursera.org/learn/language-processing (An excellent course on NLP covering topics from basics of NLP to intermediate level)
