@@ -14,3 +14,11 @@
 | Name           | Year     | Topic                                     |
 |----------------|----------|-------------------------------------------|
 | [Nischal A](https://github.com/Nish-19) | 2nd Year | [Dynamic Memory Networks for Natural Language Processing](https://docs.google.com/presentation/d/1RTEezKMy-3UGtXbR2ecy5IiQI-_0b-qa_45VNPvRoHc/edit?usp=sharing)|
+
+## Version 3
+### Date - 30th October 2019
+
+| Name           | Year     | Topic                                     |
+|----------------|----------|-------------------------------------------|
+| [Badrinath Reddy]() | 3rd Year | [Gradient Flow and BackPropogation](https://drive.google.com/file/d/1iEnfxpZWZY7P4-dptYzDMgV9ux03fXDQ/view?usp=sharing)               |
+| [Piysuh Chauhan](https://github.com/piyushchauhan)  | 3rd Year | [Realtime Multi-Person 2D Pose Estimation](https://docs.google.com/presentation/d/1YujQ0bC3iZTO8MQMzUMAh1SaPxrvYi8BOYdVzxAXrko/edit#slide=id.p) |
