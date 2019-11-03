@@ -15,3 +15,6 @@ Facilitator Team: [Piyush Chauhan](https://github.com/piyushchauhan), Nischal, J
 - [Image classification via Transfer Learning](https://www.tensorflow.org/beta/tutorials/images/transfer_learning)
 - [Text Classification](https://www.tensorflow.org/hub/tutorials/text_classification_with_tf_hub)
 - [Image Captioning](https://www.tensorflow.org/tutorials/text/image_captioning#download_and_prepare_the_ms-coco_dataset)
+
+## Ahead of the Workshop
+- [Neural Machine Translation](https://www.tensorflow.org/tutorials/text/nmt_with_attention)
