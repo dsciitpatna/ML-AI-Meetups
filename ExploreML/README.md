@@ -2,7 +2,7 @@
 
 Date: 2nd-3rd Nov 2019
 
-Facilitator Team: [Piyush Chauhan](https://github.com/piyushchauhan), Nischal, Joshika
+Facilitator Team: [Piyush Chauhan](https://github.com/piyushchauhan), [Nischal](https://github.com/Nish-19), Joshika
 
 ## To read articles
  - [AI used to identify Skin Cancer](https://news.stanford.edu/2017/01/25/artificial-intelligence-used-identify-skin-cancer/)
