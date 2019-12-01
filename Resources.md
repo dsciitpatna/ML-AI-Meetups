@@ -45,9 +45,15 @@
 
 * http://www.deeplearningbook.org/ (Online version of the Deep learning book by Ian Goodfellow, Benigo, Courville)
 
+## Computer Vision
+
+* http://cs231n.stanford.edu/ (CS231n : Stanford university's CNN for visual recognition)
+
 ## Natural Language Processing
 
 * https://www.coursera.org/learn/language-processing (An excellent course on NLP covering topics from basics of NLP to intermediate level)
+
+* http://web.stanford.edu/class/cs224n/ (CS224n : Stanford University's NLP with deep learning)
 
 * https://github.com/Nish-19/Learn-Natural-Language-Processing-Curriculum (The path to be followed to learn NLP. Contains a list of topics along with the corresponding resources)
 
